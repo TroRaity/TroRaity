@@ -11,7 +11,7 @@
 
 ## About Me
 
-- 一名flutter跨端独立开发者
+- flutter跨端独立开发者
 - 算法竞赛选手
 
 
