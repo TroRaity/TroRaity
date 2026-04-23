@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  目前正在学习 Flutter、做自己的项目，也在持续完善 GitHub 作品集。
+  技术栈：flutter + python/java/php
 </p>
 
 ---
