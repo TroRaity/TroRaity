@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm TroRaity</h1>
+<p align="center">
+  Flutter Developer / Android Learner / Open Source Enthusiast
+</p>
 
-<!--
-**TroRaity/TroRaity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  目前正在学习 Flutter、做自己的项目，也在持续完善 GitHub 作品集。
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 喜欢做移动端应用
+- 正在深入学习 Flutter / Dart
+- 希望把 GitHub 打造成自己的作品展示页
+
+## Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,androidstudio,git,github,firebase,vscode,figma)](https://skillicons.dev)
+
+## GitHub Stats
+
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=transparent" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=transparent" />
+</p>
+
+
+## Contact Me
+
+- Email: huzhengyuan822@163.com
+
